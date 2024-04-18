@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>Sistema_Controle_Financeiro</name>
+  <classpath>C:\Users\I5 9400F\Desktop\Pasta unica\Analise e Desenvolvimento de Software\Projetos de SOFTWARES\Sistema_Gerenciamento_OS\Banco de dados\ConexaoBD\mysql-connector-j-8.3.0\mysql-connector-j-8.3.0.jar</classpath>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <username>root</username>
+  <password></password>
+  <url>jdbc:mysql://localhost/sistema_controle_financeiro</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
