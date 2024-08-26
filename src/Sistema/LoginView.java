@@ -173,7 +173,7 @@ public class LoginView extends javax.swing.JFrame {
 
         try {
             String Login_Usuario, Login_Senha;
-
+            
             Login_Usuario = txtLogin_Usuario.getText();
             Login_Senha = txtLogin_Senha.getText();
 
